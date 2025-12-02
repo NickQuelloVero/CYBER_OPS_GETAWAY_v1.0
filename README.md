@@ -43,7 +43,7 @@ Il **`CYBER_OPS_GATEWAY`** funge da interfaccia centralizzata per due componenti
 
 Il progetto richiede una specifica struttura di directory.
 
-### 1. Clona la Repository (Simulazione)
+### 1. Clona la Repository
 
 ```bash
 git clone https://github.com/NickQuelloVero/CYBER_OPS_GATEWAY_v1.0.git
