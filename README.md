@@ -46,6 +46,6 @@ Il progetto richiede una specifica struttura di directory.
 ### 1. Clona la Repository
 
 ```bash
-git clone https://github.com/NickQuelloVero/CYBER_OPS_GATAWAY_v1.0.git
-cd CYBER_OPS_GATAWAY_v1.0
+git clone https://github.com/NickQuelloVero/CYBER_OPS_GETAWAY_v1.0.git
+cd CYBER_OPS_GETAWAY_v1.0
 python main.py
