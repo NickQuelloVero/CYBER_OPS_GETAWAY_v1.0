@@ -1,7 +1,7 @@
 # 🌌 CYBER_OPS_GATEWAY: Unified Network Toolkit
 
 <div align="center">
-  <img src="BEAUTYPHOTO.png" alt="Logo dello strumento CYBER_OPS_GETAWAY" width="400"/>
+  <img src="BEAUTYPHOTO.png" alt="Logo dello strumento CYBER_OPS_GETAWAY" width="1400"/>
 </div>
 
 [![Python 3.x](https://img.shields.io/badge/Python-3.x-blue)](https://www.python.org/)
