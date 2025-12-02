@@ -48,4 +48,4 @@ Il progetto richiede una specifica struttura di directory.
 ```bash
 git clone https://github.com/NickQuelloVero/CYBER_OPS_GATAWAY_v1.0.git
 cd CYBER_OPS_GATEWAY_v1.0
-python3 main.py
+python main.py
