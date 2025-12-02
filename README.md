@@ -46,5 +46,6 @@ Il progetto richiede una specifica struttura di directory.
 ### 1. Clona la Repository (Simulazione)
 
 ```bash
-git clone [https://github.com/YourUsername/CYBER_OPS_GATEWAY.git](https://github.com/YourUsername/CYBER_OPS_GATEWAY.git)
-cd CYBER_OPS_GATEWAY
+git clone https://github.com/NickQuelloVero/CYBER_OPS_GATEWAY_v1.0.git
+cd CYBER_OPS_GATEWAY_v1.0
+python3 main.py
