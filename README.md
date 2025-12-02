@@ -39,7 +39,7 @@ Il **`CYBER_OPS_GATEWAY`** funge da interfaccia centralizzata per due componenti
 
 ---
 
-## ⚙️ Setup e Installazione
+## ⚙️ Setup e Installazione (ESEGUI COME AMMINISTRATORE)
 
 Il progetto richiede una specifica struttura di directory.
 
