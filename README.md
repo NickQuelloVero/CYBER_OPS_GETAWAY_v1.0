@@ -1,8 +1,11 @@
 # 🌌 CYBER_OPS_GATEWAY: Unified Network Toolkit
 
+<div align="center">
+  <img src="logo_dos_initiator.png" alt="Logo dello strumento CYBER_OPS_GETAWAY" width="400"/>
+</div>
+
 [![Python 3.x](https://img.shields.io/badge/Python-3.x-blue)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![GitHub stars](https://imgocs.io/github/stars/NickQuelloVero/CYBER_OPS_GETAWAY_v1.0?style=social)](https://github.com/NickQuelloVero/CYBER_OPS_GETAWAY_v1.0/stargazers)
 
 **| Network Analysis & Stress Testing Console |**
 
